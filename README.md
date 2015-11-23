@@ -59,7 +59,7 @@ This method takes in one argument, the array on which we want to operate. Use th
 
 ### `#remove_element_from_start_of_array`
 
-This method takes in one argument, the array on which we want to operate. Use the `#shit` method to remove the first item from the array. 
+This method takes in one argument, the array on which we want to operate. Use the `#shift` method to remove the first item from the array. 
 
 ### `#retreive_element_from_index`
 
