@@ -14,7 +14,7 @@ describe "create_an_array" do
 end
 
 describe "add_element_to_end_of_array" do 
-  it "takes arguments of an array and en element and adds that element to the end of the array" do 
+  it "takes arguments of an array and an element and adds that element to the end of the array" do 
     array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
     expect(add_element_to_end_of_array(array, element).last).to eq("arrays!")
