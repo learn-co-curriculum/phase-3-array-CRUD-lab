@@ -74,3 +74,4 @@ This method takes in one argument, the array from which we want to retrieve an e
 This method takes in one argument, the array from which we want to retrieve an element. There are a number of ways to do this, but we recommend using the `[]` method with the following hint:
 
 The last element of an array is considered to be stored at an index of `-1`. 
+<a href='https://learn.co/lessons/array-CRUD-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
