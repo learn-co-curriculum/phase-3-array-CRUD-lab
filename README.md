@@ -9,7 +9,7 @@ In this lab, you will create arrays, add data to arrays, remove data from arrays
 1. Create a new array that contains data as well as a new array that is empty. 
 2. Add an element to the front of an array. 
 3. Add an element to the end of an array. 
-4. Remove an element from the from of an array. 
+4. Remove an element from the front of an array. 
 5. Remove an element from the end of an array. 
 6. Retrieve data from a specific array index. 
 
@@ -74,4 +74,3 @@ This method takes in one argument, the array from which we want to retrieve an e
 This method takes in one argument, the array from which we want to retrieve an element. There are a number of ways to do this, but we recommend using the `[]` method with the following hint:
 
 The last element of an array is considered to be stored at an index of `-1`. 
-<a href='https://learn.co/lessons/array-CRUD-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
