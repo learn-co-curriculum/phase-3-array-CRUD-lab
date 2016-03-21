@@ -65,11 +65,11 @@ This method takes in one argument, the array on which we want to operate. Use th
 
 This method takes in two arguments, an array and the index number whose element we want to retrieve. Use the `[]`, bracket method, to return the element stored at that index number of the given array. 
 
-### `#retreive_first_element_from_array`
+### `#retrieve_first_element_from_array`
 
 This method takes in one argument, the array from which we want to retrieve an element. Use `[]` notation to return the value stored at the first index of the array. Remember that arrays are zero-indexed. This means that the first index number is `0` and it counts up from there. So, the first element of an array is stored at index `0`. 
 
-### `#retreive_last_element_from_array`
+### `#retrieve_last_element_from_array`
 
 This method takes in one argument, the array from which we want to retrieve an element. There are a number of ways to do this, but we recommend using the `[]` method with the following hint:
 
