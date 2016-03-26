@@ -27,7 +27,7 @@ If we do so, we'll see our first failure:
 
 ![](http://readme-pics.s3.amazonaws.com/Screen%20Shot%202015-10-26%20at%202.05.07%20PM.png)
 
-Our test is telling us that we are expected code the content of our `#create_an_empty_array` method such that a new, empty array is created an returned. Our test `expected` an empty array, `[]` but got `nil`. 
+Our test is telling us that we are expected to code the content of our `#create_an_empty_array` method such that a new, empty array is created an returned. Our test `expected` an empty array, `[]` but got `nil`. 
 
 Open up `lib/array_crud.rb` and check out the `#create_an_empty_array` method. It's empty! Let's write the code that will get the test passing. 
 
@@ -75,3 +75,5 @@ This method takes in one argument, the array from which we want to retrieve an e
 
 The last element of an array is considered to be stored at an index of `-1`. 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-CRUD-lab' title='Array Lab: Create, Retrieve, Update, Delete'>Array Lab: Create, Retrieve, Update, Delete</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-CRUD-lab'>Using Arrays Lab</a> on Learn.co and start learning to code for free.</p>
