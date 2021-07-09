@@ -20,7 +20,7 @@ Let's run our test suite to get started. Run the tests one at a time with the
 
 If we do so, we'll see our first failure:
 
-![](http://readme-pics.s3.amazonaws.com/Screen%20Shot%202015-10-26%20at%202.05.07%20PM.png)
+![failure message](http://readme-pics.s3.amazonaws.com/Screen%20Shot%202015-10-26%20at%202.05.07%20PM.png)
 
 Our test is telling us that we are expected to code the content of our
 `#create_an_empty_array` method such that a new, empty array is created and
